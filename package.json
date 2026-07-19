@@ -4,7 +4,8 @@
   "description": "Convert npm package pages to markdown",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "npx electron-builder"
   },
   "keywords": [],
   "author": "",
